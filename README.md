@@ -6,6 +6,7 @@ TestProject
 Contains the test methods.
 SpecFlow was used to specifing test cases using a Gerking sintax
 The test project does not have any reference to Selenium, in this way  if Selenium have to be replaced by another framework the test project doesn't have to be edited.
+SpecFlow extension have to be installed
 
 TestFramework
 Contains the methods to interact with the login page.
