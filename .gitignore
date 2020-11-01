@@ -3,3 +3,10 @@
 ################################################################################
 
 /Hudl/obj
+/Hudl/Class1.cs
+/packages
+/TestFramework/bin/Debug
+/TestFramework/obj/Debug
+/TestProject/bin/Debug
+/TestProject/obj/Debug
+/.vs/Hudl/v15
